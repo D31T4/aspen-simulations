@@ -1,2 +1,2 @@
 # aspen-simulations
-Collection of Aspen Plus process simulations
+A collection of Aspen Plus process simulations
